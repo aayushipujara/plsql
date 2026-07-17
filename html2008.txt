@@ -1,0 +1,44 @@
+<html>
+
+
+<head>
+    
+    
+    <title>
+
+<body>
+  resume-
+  
+  name- khushi jivani <br>
+
+  address- kalavad road,rajkot <br>
+
+  experience- freshers <br>
+
+  
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+    </title>
+    
+    
+    
+    
+    
+    
+    <head>
+
+
+</html>
