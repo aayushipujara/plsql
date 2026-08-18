@@ -1,5 +1,5 @@
 -- PROGRAM 1: Calculate Simple Interest
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
