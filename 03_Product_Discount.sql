@@ -1,5 +1,5 @@
 -- PROGRAM 3: Calculate Discount
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
