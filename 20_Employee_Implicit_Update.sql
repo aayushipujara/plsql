@@ -1,5 +1,5 @@
 -- PROGRAM 20: Update EMPLOYEE Using Implicit Cursor
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
