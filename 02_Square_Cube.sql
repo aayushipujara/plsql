@@ -1,5 +1,5 @@
 -- PROGRAM 2: Calculate Square and Cube
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
