@@ -1,5 +1,5 @@
 -- PROGRAM 11: Implicit Cursor SQL%ROWCOUNT
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
