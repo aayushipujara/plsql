@@ -1,4 +1,4 @@
-
+--PROGRAM 22: Result exception handling
 CREATE TABLE RESULT (
     student_id   NUMBER PRIMARY KEY,
     student_name VARCHAR2(100) NOT NULL,
