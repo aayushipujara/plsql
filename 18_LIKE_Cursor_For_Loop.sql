@@ -1,5 +1,5 @@
 -- PROGRAM 18: LIKE Operator Using Cursor FOR Loop
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
