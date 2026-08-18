@@ -1,5 +1,5 @@
 -- PROGRAM 15: Parameterized Cursor
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
