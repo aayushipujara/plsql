@@ -1,5 +1,5 @@
 -- PROGRAM 14: Top 3 Highest Paid Employees
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
