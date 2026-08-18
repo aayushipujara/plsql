@@ -1,5 +1,5 @@
 -- PROGRAM 16: EMP_BACKUP and User Defined Exception
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
