@@ -1,5 +1,5 @@
 -- PROGRAM 9: Display Male Employees in HR Department
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
