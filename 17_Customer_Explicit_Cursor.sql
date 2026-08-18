@@ -1,5 +1,5 @@
 -- PROGRAM 17: Display CUSTOMER Records
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
