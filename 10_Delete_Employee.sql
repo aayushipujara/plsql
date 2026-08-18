@@ -1,5 +1,5 @@
 -- PROGRAM 10: Delete Employee by EID
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
