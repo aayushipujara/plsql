@@ -1,5 +1,5 @@
 -- PROGRAM 6: Generate Numbers Using LOOP, FOR LOOP and WHILE LOOP
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
