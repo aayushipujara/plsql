@@ -1,5 +1,4 @@
 -- PROGRAM 7: Calculate Total, Percentage and Grade
--- Name: Ausura Keshar
 
 SET SERVEROUTPUT ON;
 
