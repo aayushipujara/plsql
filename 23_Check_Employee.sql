@@ -1,3 +1,5 @@
+--PROGRAM 23: Employee Check Exception
+
 DECLARE
    
     v_name   EMPLOYEE20.emp_name%TYPE := '&enter_employee_name'; 
