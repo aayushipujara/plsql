@@ -1,5 +1,5 @@
 -- PROGRAM 8: Calculate Gross Salary
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
