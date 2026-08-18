@@ -1,5 +1,5 @@
 -- PROGRAM 12: %ISOPEN and %NOTFOUND
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
