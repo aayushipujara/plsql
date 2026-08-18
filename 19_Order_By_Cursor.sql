@@ -1,5 +1,5 @@
 -- PROGRAM 19: ORDER BY Using Cursor
--- Name: Ausura Keshar
+
 
 SET SERVEROUTPUT ON;
 
